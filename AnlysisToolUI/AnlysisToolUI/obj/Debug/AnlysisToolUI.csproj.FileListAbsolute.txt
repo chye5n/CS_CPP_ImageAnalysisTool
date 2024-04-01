@@ -1,0 +1,13 @@
+D:\Task\AnlysisToolUI\AnlysisToolUI\bin\Debug\AnlysisToolUI.exe.config
+D:\Task\AnlysisToolUI\AnlysisToolUI\bin\Debug\AnlysisToolUI.exe
+D:\Task\AnlysisToolUI\AnlysisToolUI\bin\Debug\AnlysisToolUI.pdb
+D:\Task\AnlysisToolUI\AnlysisToolUI\bin\Debug\AnalysisTool.dll
+D:\Task\AnlysisToolUI\AnlysisToolUI\bin\Debug\AnalysisTool.pdb
+D:\Task\AnlysisToolUI\AnlysisToolUI\obj\Debug\AnlysisToolUI.csproj.AssemblyReference.cache
+D:\Task\AnlysisToolUI\AnlysisToolUI\obj\Debug\AnlysisToolUI.Form1.resources
+D:\Task\AnlysisToolUI\AnlysisToolUI\obj\Debug\AnlysisToolUI.Properties.Resources.resources
+D:\Task\AnlysisToolUI\AnlysisToolUI\obj\Debug\AnlysisToolUI.csproj.GenerateResource.cache
+D:\Task\AnlysisToolUI\AnlysisToolUI\obj\Debug\AnlysisToolUI.csproj.CoreCompileInputs.cache
+D:\Task\AnlysisToolUI\AnlysisToolUI\obj\Debug\AnlysisToolUI.csproj.CopyComplete
+D:\Task\AnlysisToolUI\AnlysisToolUI\obj\Debug\AnlysisToolUI.exe
+D:\Task\AnlysisToolUI\AnlysisToolUI\obj\Debug\AnlysisToolUI.pdb
